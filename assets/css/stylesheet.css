@@ -1,0 +1,32 @@
+h1{
+    color: teal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    color: teal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body {
+    background-color: whitesmoke;
+    font-family: Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+.navbar-brand{
+    color: white; 
+    background-color: teal;
+    font-size:x-large;
+    padding:10px;
+}
+.navbar{
+    background-color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav-link{
+    color:teal;
+}
+.container{
+    background-color: white;
+}
+.top-buffer{
+    margin-top:20px;
+}
