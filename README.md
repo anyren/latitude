@@ -1,6 +1,8 @@
 # Latitude
 Web Design Challenge - Homework 11 for University of Minnesota Data Boot Camp
 
+![homepage screenshot](assets/images/index.png)
+
 This site was created using [Bootstrap](https://getbootstrap.com/) and displays the result of data analyzed in [Homework 6](https://github.com/anyren/python-api-challenge).  
 
 The site can be found at https://anyren.github.io/web-design-challenge/index.html
